@@ -5,7 +5,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 Python IDE with Numpy and Scipy.
 # Program
 
-#Ideal Sampling
+# Ideal Sampling
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -49,7 +49,7 @@ plt.legend()
 plt.show()
 ```
 
-#Natural Sampling
+# Natural Sampling
 
 ```
 import numpy as np
@@ -128,7 +128,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-#Flat-top Sampling
+# Flat-top Sampling
 
 ```
 import numpy as np
@@ -203,15 +203,15 @@ plt.show()
 ```
 # Output Waveform
 
-#Ideal Sampling
+# Ideal Sampling
 
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/496a76e2-4eaf-4383-9376-97127c54aa27" />
 
-#Natural Sampling
+# Natural Sampling
 
 <img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/7508ee0a-c358-444f-bbc8-63a2c9e04e17" />
 
-#Flat-top Sampling
+# Flat-top Sampling
 
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/28e01316-9bfe-41d7-a75c-3736f535afcc" />
 
